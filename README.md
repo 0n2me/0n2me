@@ -33,4 +33,5 @@
 ![](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-880808?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Redux-563D7C?style=for-the-badge&logo=Redux&logoColor=white)
